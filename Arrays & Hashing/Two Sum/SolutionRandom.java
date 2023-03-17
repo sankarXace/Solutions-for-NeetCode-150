@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class SolutionRandom {
 
     // Create a random number generator.
     private static final Random generator = new Random();
