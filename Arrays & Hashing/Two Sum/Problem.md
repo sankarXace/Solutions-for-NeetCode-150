@@ -37,7 +37,7 @@ target = 6
 
 ## Constraints:
 
-2 <= nums.length <= 104  
--109 <= nums[i] <= 109  
--109 <= target <= 109  
+2 <= nums.length <= 10^4  
+-10^9 <= nums[i] <= 10^9  
+-10^9 <= target <= 10^9  
 Only one valid answer exists.
