@@ -1,1 +1,1 @@
-# Our-Solutions-for-NeetCode-150
+# Solutions-for-NeetCode-150
